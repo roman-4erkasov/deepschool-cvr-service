@@ -24,10 +24,10 @@ You can read the full set of the tags in "src/config.yml".
 Follow the following steps:
 1. If you wish, set `APP_PORT`.
 1. `cd deepschool-cvr-service`
-2. `make install`
-2. `source venv/bin/activate`
-2. Get the private key and run `make download_weights`
-2. `make run_app`
+1. `make install`
+1. `source venv/bin/activate`
+1. Get the private key and run `make download_weights`
+1. `make run_app`
 
 ## Get Started with Docker
 Follow the following steps:
