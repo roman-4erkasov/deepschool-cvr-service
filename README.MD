@@ -22,11 +22,17 @@ You can read the full set of the tags in "src/config.yml".
 
 ## Get Started in Host OS
 Follow the following steps:
+
 #. If you wish, set `APP_PORT`.
+
 #. `cd deepschool-cvr-service`
+
 #. `make install`
+
 #. `source venv/bin/activate`
+
 #. Get the private key and run `make download_weights`
+
 #. `make run_app`
 
 ## Get Started with Docker
