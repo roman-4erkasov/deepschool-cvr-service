@@ -1,0 +1,9 @@
+[core]
+    remote = staging
+[cache]
+    type = "hardlink,symlink"
+['remote "myremote"']
+    url = gdrive://1eTI7YbtChwtQhZQNsVG85OLp-9xdf3TV
+['remote "staging"']
+    url = ssh://91.206.15.25/home/roman.4erkasov/dvc_files
+    user = roman.4erkasov

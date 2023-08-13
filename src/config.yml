@@ -1,0 +1,9 @@
+model:
+    path: "weights/model.pth"
+    class_names: ["agriculture","artisinal_mine", "bare_ground","blooming", "blow_down","clear", "cloudy","conventional_mine", "cultivation","habitation", "haze","partly_cloudy", "primary","road", "selective_logging","slash_burn", "water"]
+    model_kwargs: 
+        "model_name": "resnet18" 
+        "pretrained": True
+    device: "cpu"
+    threshold: 0.5
+    
