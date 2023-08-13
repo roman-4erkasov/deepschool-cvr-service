@@ -12,6 +12,12 @@ Examples of tags for some images:
 
 You can read the full set of the tags in "src/config.yml".
 
+The service uses weights of the model that was trained here: https://github.com/roman-4erkasov/deepschool-cvr-modeling/tree/dev
+
+Y
+https://github.com/roman-4erkasov/deepschool-cvr-modeling/tree/dev
+
+
 ## System Requirements
 |System  |Required                                   |
 |:------:|:-----------------------------------------:|
