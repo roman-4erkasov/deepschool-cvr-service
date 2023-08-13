@@ -31,9 +31,9 @@ Follow the following steps:
 
 ## Get Started with Docker
 Follow the following steps:
-#. If you wish, set `APP_PORT`, `DOCKER_TAG`, `DOCKER_IMAGE`.
-#. Set demo_host in deploy/ansible/inventiry.ini
-#. Run ci/cd pipeline of ".gitlab-ci.yml" or run these commands from this file manually.
+1. If you wish, set `APP_PORT`, `DOCKER_TAG`, `DOCKER_IMAGE`.
+1. Set demo_host in deploy/ansible/inventiry.ini
+1. Run ci/cd pipeline of ".gitlab-ci.yml" or run these commands from this file manually.
 
 
 ## Test the service
